@@ -1,4 +1,4 @@
-FROM circleci/php:7.4.3-cli-buster-node
+FROM php:7.4-cli
 # uses 
 # - debian stretch: 9.6-slim 
 # - node: 10.15.0
